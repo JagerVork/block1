@@ -12,7 +12,7 @@ $massiveB= array('');
     if((array_search("Петр Петров", $array_users){
         echo ($massiveA);
     }else{
-        echo "<span>$value</span><br/>";
+        echo ($massiveB);
     }
 
 ?>
