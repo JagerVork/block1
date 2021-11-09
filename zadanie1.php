@@ -18,5 +18,5 @@ if ($pos === false){
     array_unshift($result2, $subStr);
     var_dump ($result2);
 }
-print_r ($array_users) ;
+print_r ($array_users)\n ;
 ?>
