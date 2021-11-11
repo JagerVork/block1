@@ -2,9 +2,7 @@
 function test (&$array,$key1,$key2) 
 {
     list($array[$key1],$array[$key2]) = array($array[$key2],$array[$key1]);
-
 }
-
 function sortirovka ($s) 
 {
     $i = $j = 0; 
